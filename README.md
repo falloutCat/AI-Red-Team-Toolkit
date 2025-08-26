@@ -17,3 +17,16 @@ AI-powered toolkit for Red Teaming automation, recon, payload planning and attac
 
 - **Interaction Layer**  
   CLI or WebUI for controlling modules, uploading scopes, and injecting human instructions
+
+
+---
+
+### 🔒 4. **Security Considerations**
+
+```markdown
+## 🔒 Ethics & Security
+
+This toolkit is built for ethical research and educational purposes only.  
+It should not be used against targets without proper authorization.
+
+All AI prompts and logic are designed to enhance Red Team operations in **legally approved contexts**.
